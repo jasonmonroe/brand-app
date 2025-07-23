@@ -1,3 +1,9 @@
+/**
+  App.css
+  typically contains styles specific to the App component in a React project, focusing on layout and appearance for
+  that component only.
+*/
+
 .App {
   text-align: center;
 }
