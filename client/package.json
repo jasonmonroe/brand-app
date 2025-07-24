@@ -1,6 +1,7 @@
 {
   "name": "brand-app-client",
   "version": "0.1.0",
+  "description": "A customer based social app to showcase your brand.",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
