@@ -1,7 +1,7 @@
 /**
   index.css
   Usually holds global styles that apply to the entire application, such as resets, base typography, and shared utility
-  classes. It is often imported once in the entry point (like index.js) to ensure global styles are available everywhere.
+  classes. It is often imported once in the entry point (like index.tsx) to ensure global styles are available everywhere.
 */
 
 body {
